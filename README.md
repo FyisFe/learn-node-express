@@ -5,6 +5,7 @@ Learn Node.js and Express.js by creating four projects.
 ## Contents
 
 1. [Task Manager](./task-manager) (MongoDB, Mongoose)
+1. [Store API](./store-api)
 
 ## Acknowledgements
 
